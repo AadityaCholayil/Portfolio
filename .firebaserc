@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfolio-7fdab"
+  },
+  "targets": {
+    "portfolio-7fdab": {
+      "hosting": {
+        "aadityac": [
+          "public"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
